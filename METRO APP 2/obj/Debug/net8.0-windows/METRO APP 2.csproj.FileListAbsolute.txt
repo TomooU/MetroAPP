@@ -1,0 +1,53 @@
+C:\Users\20HuynhT\source\repos\METRO APP 2\METRO APP 2\bin\Debug\net8.0-windows\METRO APP 2.exe
+C:\Users\20HuynhT\source\repos\METRO APP 2\METRO APP 2\bin\Debug\net8.0-windows\METRO APP 2.deps.json
+C:\Users\20HuynhT\source\repos\METRO APP 2\METRO APP 2\bin\Debug\net8.0-windows\METRO APP 2.runtimeconfig.json
+C:\Users\20HuynhT\source\repos\METRO APP 2\METRO APP 2\bin\Debug\net8.0-windows\METRO APP 2.dll
+C:\Users\20HuynhT\source\repos\METRO APP 2\METRO APP 2\bin\Debug\net8.0-windows\METRO APP 2.pdb
+C:\Users\20HuynhT\source\repos\METRO APP 2\METRO APP 2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\20HuynhT\source\repos\METRO APP 2\METRO APP 2\obj\Debug\net8.0-windows\Window1.g.cs
+C:\Users\20HuynhT\source\repos\METRO APP 2\METRO APP 2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\20HuynhT\source\repos\METRO APP 2\METRO APP 2\obj\Debug\net8.0-windows\METRO APP 2_MarkupCompile.cache
+C:\Users\20HuynhT\source\repos\METRO APP 2\METRO APP 2\obj\Debug\net8.0-windows\METRO APP 2_MarkupCompile.lref
+C:\Users\20HuynhT\source\repos\METRO APP 2\METRO APP 2\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\20HuynhT\source\repos\METRO APP 2\METRO APP 2\obj\Debug\net8.0-windows\Window1.baml
+C:\Users\20HuynhT\source\repos\METRO APP 2\METRO APP 2\obj\Debug\net8.0-windows\METRO APP 2.g.resources
+C:\Users\20HuynhT\source\repos\METRO APP 2\METRO APP 2\obj\Debug\net8.0-windows\METRO APP 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20HuynhT\source\repos\METRO APP 2\METRO APP 2\obj\Debug\net8.0-windows\METRO APP 2.AssemblyInfoInputs.cache
+C:\Users\20HuynhT\source\repos\METRO APP 2\METRO APP 2\obj\Debug\net8.0-windows\METRO APP 2.AssemblyInfo.cs
+C:\Users\20HuynhT\source\repos\METRO APP 2\METRO APP 2\obj\Debug\net8.0-windows\METRO APP 2.csproj.CoreCompileInputs.cache
+C:\Users\20HuynhT\source\repos\METRO APP 2\METRO APP 2\obj\Debug\net8.0-windows\METRO APP 2.dll
+C:\Users\20HuynhT\source\repos\METRO APP 2\METRO APP 2\obj\Debug\net8.0-windows\refint\METRO APP 2.dll
+C:\Users\20HuynhT\source\repos\METRO APP 2\METRO APP 2\obj\Debug\net8.0-windows\METRO APP 2.pdb
+C:\Users\20HuynhT\source\repos\METRO APP 2\METRO APP 2\obj\Debug\net8.0-windows\METRO APP 2.genruntimeconfig.cache
+C:\Users\20HuynhT\source\repos\METRO APP 2\METRO APP 2\obj\Debug\net8.0-windows\ref\METRO APP 2.dll
+C:\Users\20HuynhT\source\repos\METRO APP 2\METRO APP 2\obj\Debug\net8.0-windows\Window2.g.cs
+C:\Users\20HuynhT\source\repos\METRO APP 2\METRO APP 2\obj\Debug\net8.0-windows\Window3.g.cs
+C:\Users\20HuynhT\source\repos\METRO APP 2\METRO APP 2\obj\Debug\net8.0-windows\Window2.baml
+C:\Users\20HuynhT\source\repos\METRO APP 2\METRO APP 2\obj\Debug\net8.0-windows\Window3.baml
+C:\Users\20HuynhT\Documents\GitHub\MetroAPP\METRO APP 2\bin\Debug\net8.0-windows\METRO APP 2.exe
+C:\Users\20HuynhT\Documents\GitHub\MetroAPP\METRO APP 2\bin\Debug\net8.0-windows\METRO APP 2.deps.json
+C:\Users\20HuynhT\Documents\GitHub\MetroAPP\METRO APP 2\bin\Debug\net8.0-windows\METRO APP 2.runtimeconfig.json
+C:\Users\20HuynhT\Documents\GitHub\MetroAPP\METRO APP 2\bin\Debug\net8.0-windows\METRO APP 2.dll
+C:\Users\20HuynhT\Documents\GitHub\MetroAPP\METRO APP 2\bin\Debug\net8.0-windows\METRO APP 2.pdb
+C:\Users\20HuynhT\Documents\GitHub\MetroAPP\METRO APP 2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\20HuynhT\Documents\GitHub\MetroAPP\METRO APP 2\obj\Debug\net8.0-windows\Window1.g.cs
+C:\Users\20HuynhT\Documents\GitHub\MetroAPP\METRO APP 2\obj\Debug\net8.0-windows\Window2.g.cs
+C:\Users\20HuynhT\Documents\GitHub\MetroAPP\METRO APP 2\obj\Debug\net8.0-windows\Window3.g.cs
+C:\Users\20HuynhT\Documents\GitHub\MetroAPP\METRO APP 2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\20HuynhT\Documents\GitHub\MetroAPP\METRO APP 2\obj\Debug\net8.0-windows\METRO APP 2_MarkupCompile.cache
+C:\Users\20HuynhT\Documents\GitHub\MetroAPP\METRO APP 2\obj\Debug\net8.0-windows\METRO APP 2_MarkupCompile.lref
+C:\Users\20HuynhT\Documents\GitHub\MetroAPP\METRO APP 2\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\20HuynhT\Documents\GitHub\MetroAPP\METRO APP 2\obj\Debug\net8.0-windows\Window1.baml
+C:\Users\20HuynhT\Documents\GitHub\MetroAPP\METRO APP 2\obj\Debug\net8.0-windows\Window2.baml
+C:\Users\20HuynhT\Documents\GitHub\MetroAPP\METRO APP 2\obj\Debug\net8.0-windows\Window3.baml
+C:\Users\20HuynhT\Documents\GitHub\MetroAPP\METRO APP 2\obj\Debug\net8.0-windows\METRO APP 2.g.resources
+C:\Users\20HuynhT\Documents\GitHub\MetroAPP\METRO APP 2\obj\Debug\net8.0-windows\METRO APP 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20HuynhT\Documents\GitHub\MetroAPP\METRO APP 2\obj\Debug\net8.0-windows\METRO APP 2.AssemblyInfoInputs.cache
+C:\Users\20HuynhT\Documents\GitHub\MetroAPP\METRO APP 2\obj\Debug\net8.0-windows\METRO APP 2.AssemblyInfo.cs
+C:\Users\20HuynhT\Documents\GitHub\MetroAPP\METRO APP 2\obj\Debug\net8.0-windows\METRO APP 2.csproj.CoreCompileInputs.cache
+C:\Users\20HuynhT\Documents\GitHub\MetroAPP\METRO APP 2\obj\Debug\net8.0-windows\METRO APP 2.sourcelink.json
+C:\Users\20HuynhT\Documents\GitHub\MetroAPP\METRO APP 2\obj\Debug\net8.0-windows\METRO APP 2.dll
+C:\Users\20HuynhT\Documents\GitHub\MetroAPP\METRO APP 2\obj\Debug\net8.0-windows\refint\METRO APP 2.dll
+C:\Users\20HuynhT\Documents\GitHub\MetroAPP\METRO APP 2\obj\Debug\net8.0-windows\METRO APP 2.pdb
+C:\Users\20HuynhT\Documents\GitHub\MetroAPP\METRO APP 2\obj\Debug\net8.0-windows\METRO APP 2.genruntimeconfig.cache
+C:\Users\20HuynhT\Documents\GitHub\MetroAPP\METRO APP 2\obj\Debug\net8.0-windows\ref\METRO APP 2.dll
